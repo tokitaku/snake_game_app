@@ -1,0 +1,5 @@
+{
+  "name": "ヘビゲーム (Snake Game)",
+  "description": "A classic Snake game built with React, TypeScript, and Tailwind CSS. Control the snake to eat food, grow longer, and avoid collisions with walls or itself. The game gets progressively faster as you score more points.",
+  "requestFramePermissions": []
+}
